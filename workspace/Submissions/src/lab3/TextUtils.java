@@ -10,7 +10,9 @@ public class TextUtils {
 	 * `o` occurs twice, and `l` occurs 3 times.
 	 */
 	public static int[] letterHistogram(String text) {
-		return null;
+		int[] counter = new int[256];
+		
+		return counter;
 	}
 	/**
 	 * Using `letterHistogram`,

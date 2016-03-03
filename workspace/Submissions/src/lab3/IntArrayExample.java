@@ -17,22 +17,22 @@ public class IntArrayExample {
 		System.out.println(min(numbers));
 		System.out.println(max(numbers));
 		System.out.println(sum(numbers));
-		System.out.println(average(numbers));
+		System.out.println(average(numbers));}
+		
+
+	public static double average(int[] numbers) {
+		// TODO Auto-generated method stub
+		return 0;
 	}
 
-	public static char[] average(int[] numbers) {
+	public static int sum(int[] numbers) {
 		// TODO Auto-generated method stub
-		return null;
+		return 0;
 	}
 
-	public static char[] sum(int[] numbers) {
+	public static int max(int[] numbers) {
 		// TODO Auto-generated method stub
-		return null;
-	}
-
-	public static char[] max(int[] numbers) {
-		// TODO Auto-generated method stub
-		return null;
+		return 0;
 	}
 
 	public static int min(int a, int b) {
@@ -49,4 +49,6 @@ public class IntArrayExample {
 		}
 		return theMin;
 	}
+	
 }
+
