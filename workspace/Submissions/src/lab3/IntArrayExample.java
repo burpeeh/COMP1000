@@ -3,7 +3,7 @@ package lab3;
 public class IntArrayExample {
 	public static void main(String[] args) {
 		// Declare an array of integers, and initialize it
-		// also allocat an array of length 5
+		// also allocate an array of length 5
 		int[] numbers = new int[5];
 		// initialize each array element
 		// arrays start at index zero
@@ -25,12 +25,11 @@ public class IntArrayExample {
 		return 0;
 	}
 
-	public static int sum(int[] numbers) {
+	public static int max(int[] numbers) {
 		// TODO Auto-generated method stub
 		return 0;
 	}
-
-	public static int max(int[] numbers) {
+	public static int sum(int[] numbers) {
 		// TODO Auto-generated method stub
 		return 0;
 	}
